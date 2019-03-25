@@ -8,9 +8,6 @@
 
 #include "./TileableVolumeNoise.h"
 
-#include <ppl.h>
-using namespace concurrency;
-
 #define BASE 0
 #define EROSION 0
 
